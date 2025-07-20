@@ -14,7 +14,12 @@
 Built with cutting-edge frontend technologies, this project showcases the power of creative UI/UX design, interactive animations, and Netflix-authentic styling to create an unforgettable user experience.
 
 ---
-
+PowerPoint Presentation of the Project:
+[Click to view](https://docs.google.com/presentation/d/1PxpQKsQLNPFJD_qz3GhIn0ovXHfBiCeS/edit?usp=drive_link&ouid=104734464690108009245&rtpof=true&sd=true)
+- **Project Repository**: [GitHub Link](https://github.com/IEEESCE/Decrypts)
+- **Demo Site**: [Live Demo Link](https://remarkable-bavarois-c11632.netlify.app/)
+- **Issues**: Report bugs or request features via GitHub Issues
+- **Demo Video** :[Live Demo Video](https://drive.google.com/file/d/1mxswtPV1hO3qI9OpRQ6pKoQTmE6acY7R/view?usp=drive_link)
 ## 🎭 Features
 
 ### 🎬 **Core Experience**
@@ -55,8 +60,8 @@ Built with cutting-edge frontend technologies, this project showcases the power 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/netflix-detergent.git
-   cd netflix-detergent
+   git clone https://github.com/IEEESCE/Decrypts
+   cd Decrypts
    ```
 
 2. **Install dependencies**
@@ -282,13 +287,6 @@ This project is created for educational and entertainment purposes. Netflix is a
 - **Unsplash** - For the high-quality product images
 
 ---
-
-## 📞 Contact & Support
-
-- **Project Repository**: [GitHub Link](https://github.com/yourusername/netflix-detergent)
-- **Demo Site**: [Live Demo Link](https://your-demo-site.com)
-- **Issues**: Report bugs or request features via GitHub Issues
-
 ---
 
 <div align="center">
@@ -297,7 +295,7 @@ This project is created for educational and entertainment purposes. Netflix is a
 
 *"Because clean clothes deserve a cinematic experience."*
 
-![Netflix Detergent Logo](https://via.placeholder.com/200x100/E50914/FFFFFF?text=NETFLIX+DETERGENT)
+![Netflix Detergent Logo](logo.png)
 
 **⭐ Don't forget to star this repository if you enjoyed the experience! ⭐**
 
